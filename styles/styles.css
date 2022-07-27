@@ -23,3 +23,15 @@
     right:0;
     background:rgba(0,0,0,0.6);
   }
+
+
+
+  .ft-bg{
+    background-color: #161616;
+    color: aliceblue;
+  }
+  .icon-style{
+    font-size: x-large;
+    color: rgb(255, 247, 247);
+    padding: 10px;
+  }
