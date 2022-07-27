@@ -3,12 +3,16 @@
     padding: 10px 25px;
     color: white;
     font-weight: 600;
+    
 }
 .button-blue:hover{
     transform: scale(1.1);
     transition:  500ms;
     background-color: #289BDE;
     color: white;
+}
+.blue{
+    color: #289BDE;
 }
 .item:after {
     content:"";
