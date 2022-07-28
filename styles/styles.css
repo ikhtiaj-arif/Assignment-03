@@ -9,14 +9,22 @@
 .button-blue:hover{
     transform: scale(1.1);
     transition:  500ms;
-    background-color: #289BDE;
-    color: white;
+    background-color: white;
+    color: #289BDE;
 }
 .button-white{
   background-color: white;
   padding: 10px 25px;
   color: #289BDE;
   font-weight: 600;
+  border: 1px solid #289BDE;
+}
+.button-white:hover{
+  background-color: #289BDE;
+  padding: 10px 25px;
+  color: white;
+  font-weight: 600;
+  
 }
 
 
