@@ -5,15 +5,26 @@
     font-weight: 600;
     
 }
+
 .button-blue:hover{
     transform: scale(1.1);
     transition:  500ms;
     background-color: #289BDE;
     color: white;
 }
-.blue{
-    color: #289BDE;
+.button-white{
+  background-color: white;
+  padding: 10px 25px;
+  color: #289BDE;
+  font-weight: 600;
 }
+
+
+.blue{
+    background-color: #289BDE;
+    color: white;
+}
+
 .item:after {
     content:"";
     position:absolute;
