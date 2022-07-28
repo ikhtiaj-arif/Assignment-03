@@ -35,7 +35,16 @@
     background:rgba(0,0,0,0.6);
   }
 
-
+  .logo-img{
+    height: 40px;
+    width: 40px;
+  }
+  .star-clr{
+    color: #F59E0B;
+  }
+  .star-muted{
+    color: #FCD34D;
+  }
 
   .ft-bg{
     background-color: #161616;
