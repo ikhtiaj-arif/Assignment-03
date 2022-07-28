@@ -21,10 +21,13 @@
 
 
 .blue{
-    background-color: #289BDE;
-    color: white;
+   color: #289BDE;
+    
 }
-
+.register{
+  background-color: #289BDE;
+  color: #ffffff;
+}
 .item:after {
     content:"";
     position:absolute;
